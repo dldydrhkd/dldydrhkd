@@ -1,7 +1,6 @@
-<p>
-  <a href="mailto:sksda4614@naver.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p>
 
+
+### Introduce
 <p>
   👋&nbsp; Hi there! I'm <b>junior developer</b> using Java 🚀<br/>
   I am interested in web backend develop and data engineering ✨<br/><br/>
@@ -28,5 +27,14 @@
 <p>
 </p>
 
+### Email
+<p>
+  <a href="mailto:sksda4614@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:sksda4614@naver.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldydrhkd&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dldydrhkd})](https://solved.ac/{dldydrhkd})
