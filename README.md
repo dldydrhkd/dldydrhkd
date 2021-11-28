@@ -5,7 +5,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>junior developer</b> using Java 🚀<br/>
   I am interested in web backend develop and data engineering ✨<br/><br/>
-  I enjoy LoL and dancing. 🖥 ️🕺br/>
+  I enjoy LoL and dancing. 🖥 ️🕺<br/>
   I hope to develop steaditly 🏃‍<br/><br/>
 </p>
 
