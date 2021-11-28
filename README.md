@@ -1,6 +1,13 @@
+# Volc 🧐
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdldydrhkd&count_bg=%23E59915&title_bg=%23846546&icon=&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="mailto:sksda4614@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:sksda4614@naver.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
-### Introduce
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldydrhkd">
+
 <p>
   👋&nbsp; Hi there! I'm <b>junior developer</b> using Java 🚀<br/>
   I am interested in web backend develop and data engineering ✨<br/><br/>
@@ -10,6 +17,9 @@
 
 ### 💪 Skills
 #### Platforms & Languages
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dldydrhkd&theme=cobalt" height="165">
+
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
@@ -27,14 +37,8 @@
 <p>
 </p>
 
-### Email
-<p>
-  <a href="mailto:sksda4614@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="mailto:sksda4614@naver.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldydrhkd&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dldydrhkd})](https://solved.ac/{dldydrhkd})
+### Experience
+- 🎓 Inha University , Computer Engineer (2014.03~ )
+- 42Seoul, Sales team Intern (2020.07 ~ 2021.05)
+- Naver BoostCamp AI Tech (2021.01 ~ 2021.06)
+- Naver BoostCamp Web full stack challenge (2021.07 ~ 2021.08)
