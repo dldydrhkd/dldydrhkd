@@ -39,6 +39,6 @@
 
 ### Experience
 - 🎓 Inha University , Computer Engineer (2014.03~ )
-- 42Seoul, Sales team Intern (2020.07 ~ 2021.05)
+- 42Seoul (2020.07 ~ 2021.05)
 - Naver BoostCamp AI Tech (2021.01 ~ 2021.06)
 - Naver BoostCamp Web full stack challenge (2021.07 ~ 2021.08)
