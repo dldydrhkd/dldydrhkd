@@ -1,29 +1,35 @@
 <p>
-  <a href="mailto:sksda4614@naver.com" target="_blank"><img src="https://img.shields.io/badge/sksda4614@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>junior developer</b> using Java 🚀<br/>
-  I am interested in web backend develop and data engineering ✨<br/><br/>
-  I enjoy LoL and dancing. 🖥 ️🕺<br/>
-  I hope to develop steadily 🏃‍<br/><br/>
+  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
+  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
 ### 💪 Skills
-#### Platforms & Languages
+#### Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=black"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-447941?style=flat-square&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-#### Tools
-<p>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldydrhkd)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
