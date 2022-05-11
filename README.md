@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
