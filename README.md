@@ -57,5 +57,5 @@
 - Naver BoostCamp Web full stack challenge (2021.07 ~ 2021.08)
 - Playdata Big Data Engineer (2021.11 ~ 2022.04)
 
-### Carrer
+### Career
 - SK Shieldus (2022.06.27 ~ )
