@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-E6E6E6?style=flat-square&logo=Flask&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -52,3 +53,6 @@
 - Naver BoostCamp AI Tech (2021.01 ~ 2021.06)
 - Naver BoostCamp Web full stack challenge (2021.07 ~ 2021.08)
 - Playdata Big Data Engineer (2021.11 ~ 2022.04)
+
+### Carrer
+- SK Shieldus (2022.06.27 ~ )
