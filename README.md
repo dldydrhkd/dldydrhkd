@@ -24,13 +24,15 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flask-E6E6E6?style=flat-square&logo=Flask&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
 </p>
 <p>
@@ -41,6 +43,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=black"/>
 </p>
 
 <!-- #### Tools
