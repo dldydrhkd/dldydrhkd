@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=black"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
