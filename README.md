@@ -58,4 +58,4 @@
 - Playdata Big Data Engineer (2021.11 ~ 2022.04)
 
 ### Career
-- SK Shieldus (2022.06.27 ~ )
+- SK Shieldus Data Engineer(2022.06.27 ~ )
