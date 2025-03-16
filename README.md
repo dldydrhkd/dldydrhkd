@@ -9,8 +9,8 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dldydrhkd">
 
 <p>
-  👋&nbsp; Hi there! I'm <b>junior developer</b> using Java 🚀<br/>
-  I am interested in web backend develop and data engineering ✨<br/><br/>
+  👋&nbsp; Hi there! I'm <b>junior developer</b> using Python 🚀<br/>
+  I am interested in cloud infra, data engineering and web backend develop  ✨<br/><br/>
   I enjoy LoL and dancing. 🖥 ️🕺<br/>
   I hope to develop consistently 🏃‍<br/><br/>
 </p>
